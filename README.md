@@ -1,2 +1,2 @@
 # py-ay250-hw
-Homework for Python AY250
+Homework for AY250 &mdash; Python for Data Science
